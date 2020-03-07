@@ -8,7 +8,7 @@
  * Radix Trees.
  * Suffix Trees.
  * Ternary Trees.
- * K-anry Trees.
+ * K-anry Trees. git
  * R-tree.
  * R*_tree
  * R+_tree.
