@@ -5,7 +5,7 @@ namespace Algorithms.Common
 {
     public static class Helpers
     {
-        /// <summary>
+        /// <summary>  change a
         /// Swaps two values in an IList<T> collection given their indexes.
         /// </summary>
         public static void Swap<T>(this IList<T> list, int firstIndex, int secondIndex)
